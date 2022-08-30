@@ -74,15 +74,15 @@ Screen1 As screen:
             Y: =Parent.TemplateHeight - 1
             ZIndex: =5
 
+    Label2 As label:
+        Text: ="Text test 3"
+        X: =139
+        Y: =213
+        ZIndex: =2
+
     Label3 As label:
         Text: ="Text test 2"
         X: =183
         Y: =224
         ZIndex: =3
-
-    Label2 As label:
-        Text: ="Text test 3"
-        X: =233
-        Y: =416
-        ZIndex: =4
 
