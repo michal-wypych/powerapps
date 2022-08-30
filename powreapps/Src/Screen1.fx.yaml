@@ -1,5 +1,11 @@
 Screen1 As screen:
 
+    Label1 As label:
+        Text: ="Text - test"
+        X: =40
+        Y: =40
+        ZIndex: =1
+
     "Gallery1 As gallery.'BrowseLayout_Vertical_TwoTextOneImageVariant_ver4.0'":
         Items: =CustomGallerySample
         Layout: =Layout.Vertical
